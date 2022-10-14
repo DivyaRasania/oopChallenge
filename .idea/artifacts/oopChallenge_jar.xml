@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oopChallenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oopChallenge_jar</output-path>
+    <root id="archive" name="oopChallenge.jar">
+      <element id="module-output" name="oopChallenge" />
+    </root>
+  </artifact>
+</component>
